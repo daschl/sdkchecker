@@ -1,0 +1,9 @@
+[package]
+name = "sdkchecker"
+version = "0.1.0"
+authors = ["Michael Nitschinger <michael@nitschinger.at>"]
+
+[dependencies]
+hyper = "0.4.0"
+rustc-serialize = "0.3.14"
+clap = "*"
